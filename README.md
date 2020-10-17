@@ -8,7 +8,7 @@ This project is based on the competition Analytics Vidhya [1] had published abou
 The purpose of the competition is to identify loan eligibility based on the mentioned data. The result of the project was uploaded in order to score the predictions, which was 0.7986, which is a good result.
 Dataset description
 
-The data for the training has 614 rows and 12 columns without the target. The description of each column is found in [1]. The name of the target is “Loan_Status” that has two possibilities “Yes” and “No”.
+The data for the training has 614 rows and 12 columns without the target. The description of each column is found in [1]. The name of the target is _Loan_Status_ that has two possibilities “Yes” and “No”.
 
 
 **Exploratory Data Analysis**
